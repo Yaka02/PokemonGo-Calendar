@@ -1,0 +1,65 @@
+###############################################################
+# CALENDRIERS DISPONIBLES
+#
+# Tu peux utiliser soit les noms lisibles, soit les noms techniques.
+#
+# Community Day              -> gocal__community_day
+# Events                     -> gocal__event
+# Raid Day                   -> gocal__raid_day
+# Raid Hour                  -> gocal__raid_hour
+# Raid Battles               -> gocal__raid_battles
+# Spotlight Hour             -> gocal__pokemon_spotlight_hour
+# GO Fest                    -> gocal__pokemon_go_fest
+# GO Battle League           -> gocal__go_battle_league
+# GO Pass                    -> gocal__go_pass
+# Max Mondays                -> gocal__max_mondays
+# Choose Your Path           -> gocal__choose_your_path
+# Season                     -> gocal__season
+###############################################################
+
+calendars:
+  - Community Day
+  - Events
+  - Raid Day
+  - GO Fest
+
+###############################################################
+# NOTIFICATIONS
+#
+# Unités possibles :
+#   m = minutes
+#   h = heures
+#   d = jours
+#
+# Exemples :
+#   15m
+#   1h
+#   24h
+#   7d
+###############################################################
+
+notifications:
+  default:
+    - 24h
+
+  rules:
+    - match: "Community Day"
+      alarms:
+        - 7d
+        - 24h
+        - 1h
+
+    - match: "Raid Hour"
+      alarms:
+        - 2h
+        - 15m
+
+    - match: "Spotlight Hour"
+      alarms: []
+
+###############################################################
+# ÉVÉNEMENTS À EXCLURE
+###############################################################
+
+exclude:
+  - "GO Battle League"
