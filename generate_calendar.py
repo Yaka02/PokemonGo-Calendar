@@ -3,10 +3,10 @@ from icalendar import Calendar
 from pathlib import Path
 
 CALENDARS = [
-    "community_day",
-    "event",
-    "raid_day",
-    "pokemon_go_fest",
+    "gocal__community_day",
+    "gocal__event",
+    "gocal__raid_day",
+    "gocal__pokemon_go_fest",
 ]
 
 BASE_URL = "https://github.com/othyn/go-calendar/releases/latest/download/{}.ics"
