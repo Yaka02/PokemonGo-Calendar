@@ -7,7 +7,7 @@ BEGIN:VEVENT
 SUMMARY:[CD] Sobble Community Day
 DTSTART:20260704T140000
 DTEND:20260704T170000
-DTSTAMP:20260702T010441Z
+DTSTAMP:20260704T033552Z
 UID:july-communityday2026
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/event
  s/july-communityday2026/
@@ -34,7 +34,7 @@ BEGIN:VEVENT
 SUMMARY:[CD] August Community Day
 DTSTART:20260816T140000
 DTEND:20260816T170000
-DTSTAMP:20260702T010441Z
+DTSTAMP:20260704T033552Z
 UID:august-communityday2026
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/event
  s/august-communityday2026/
@@ -60,7 +60,7 @@ BEGIN:VEVENT
 SUMMARY:[E] 10th Anniversary Party
 DTSTART;VALUE=DATE:20260704
 DTEND;VALUE=DATE:20260706
-DTSTAMP:20260702T010441Z
+DTSTAMP:20260704T033552Z
 UID:10th-anniversary-party
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/event
  s/10th-anniversary-party/
@@ -77,7 +77,7 @@ BEGIN:VEVENT
 SUMMARY:[E] Road of Legends
 DTSTART;VALUE=DATE:20260706
 DTEND;VALUE=DATE:20260710
-DTSTAMP:20260702T010441Z
+DTSTAMP:20260704T033552Z
 UID:road-of-legends-2026
 DESCRIPTION:Starts at 00:01\, ends at 23:59.\n\nhttps://leekduck.com/event
  s/road-of-legends-2026/
@@ -94,7 +94,7 @@ BEGIN:VEVENT
 SUMMARY:[E] Special Anniversary Pikachu Celebration
 DTSTART;VALUE=DATE:20260713
 DTEND;VALUE=DATE:20260720
-DTSTAMP:20260702T010441Z
+DTSTAMP:20260704T033552Z
 UID:special-anniversary-pikachu-celebration-2026
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/event
  s/special-anniversary-pikachu-celebration-2026/
@@ -113,7 +113,7 @@ BEGIN:VEVENT
 SUMMARY:[E] Happy Birthday\, Professor Willow!
 DTSTART:20260721T100000
 DTEND:20260721T200000
-DTSTAMP:20260702T010441Z
+DTSTAMP:20260704T033552Z
 UID:happy-birthday-professor-willow-2026
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/event
  s/happy-birthday-professor-willow-2026/
@@ -131,7 +131,7 @@ BEGIN:VEVENT
 SUMMARY:[E] Ozone Ascent
 DTSTART;VALUE=DATE:20260725
 DTEND;VALUE=DATE:20260726
-DTSTAMP:20260702T010441Z
+DTSTAMP:20260704T033552Z
 UID:ozone-ascent-2026
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/event
  s/ozone-ascent-2026/
@@ -148,7 +148,7 @@ BEGIN:VEVENT
 SUMMARY:[E] Hatch Day
 DTSTART:20260808T110000
 DTEND:20260808T170000
-DTSTAMP:20260702T010441Z
+DTSTAMP:20260704T033552Z
 UID:hatch-day-august-2026
 DESCRIPTION:Starts at 11:00\, ends at 17:00.\n\nhttps://leekduck.com/event
  s/hatch-day-august-2026/
@@ -165,7 +165,7 @@ BEGIN:VEVENT
 SUMMARY:[E] Example Event Template (Auto ToC Demo)
 DTSTART;VALUE=DATE:20261201
 DTEND;VALUE=DATE:20261202
-DTSTAMP:20260702T010441Z
+DTSTAMP:20260704T033552Z
 UID:example_event
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/event
  s/example_event/
@@ -182,7 +182,7 @@ BEGIN:VEVENT
 SUMMARY:[RD] Raichu Super Mega Raid Day
 DTSTART:20260718T140000
 DTEND:20260718T170000
-DTSTAMP:20260702T010441Z
+DTSTAMP:20260704T033552Z
 UID:raichu-super-mega-raid-day-2026
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/event
  s/raichu-super-mega-raid-day-2026/
@@ -200,7 +200,7 @@ BEGIN:VEVENT
 SUMMARY:[RD] Raid Day
 DTSTART:20260822T140000
 DTEND:20260822T170000
-DTSTAMP:20260702T010441Z
+DTSTAMP:20260704T033552Z
 UID:raid-day-august-2026
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/event
  s/raid-day-august-2026/
@@ -217,7 +217,7 @@ BEGIN:VEVENT
 SUMMARY:[PGF] Pokémon GO Fest 2026: Global
 DTSTART;VALUE=DATE:20260711
 DTEND;VALUE=DATE:20260712
-DTSTAMP:20260702T010441Z
+DTSTAMP:20260704T033552Z
 UID:pokemon-go-fest-2026-global
 DESCRIPTION:Starts at 10:00\, ends at 19:00.\n\nhttps://leekduck.com/event
  s/pokemon-go-fest-2026-global/
