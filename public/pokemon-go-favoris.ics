@@ -7,7 +7,7 @@ BEGIN:VEVENT
 SUMMARY:[CD] Nickit Community Day
 DTSTART:20260816T140000
 DTEND:20260816T170000
-DTSTAMP:20260715T024902Z
+DTSTAMP:20260716T025536Z
 UID:august-communityday2026
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/event
  s/august-communityday2026/
@@ -34,7 +34,7 @@ BEGIN:VEVENT
 SUMMARY:[E] Special Anniversary Pikachu Celebration
 DTSTART;VALUE=DATE:20260713
 DTEND;VALUE=DATE:20260720
-DTSTAMP:20260715T024902Z
+DTSTAMP:20260716T025536Z
 UID:special-anniversary-pikachu-celebration-2026
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/event
  s/special-anniversary-pikachu-celebration-2026/
@@ -53,7 +53,7 @@ BEGIN:VEVENT
 SUMMARY:[E] Happy Birthday\, Professor Willow!
 DTSTART:20260721T100000
 DTEND:20260721T200000
-DTSTAMP:20260715T024902Z
+DTSTAMP:20260716T025536Z
 UID:happy-birthday-professor-willow-2026
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/event
  s/happy-birthday-professor-willow-2026/
@@ -71,7 +71,7 @@ BEGIN:VEVENT
 SUMMARY:[E] Ozone Ascent
 DTSTART;VALUE=DATE:20260725
 DTEND;VALUE=DATE:20260726
-DTSTAMP:20260715T024902Z
+DTSTAMP:20260716T025536Z
 UID:ozone-ascent-2026
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/event
  s/ozone-ascent-2026/
@@ -88,7 +88,7 @@ BEGIN:VEVENT
 SUMMARY:[E] Ultra Unlock: 10th Anniversary Edition
 DTSTART;VALUE=DATE:20260721
 DTEND;VALUE=DATE:20260727
-DTSTAMP:20260715T024902Z
+DTSTAMP:20260716T025536Z
 UID:ultra-unlock-10th-anniversary-edition
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/event
  s/ultra-unlock-10th-anniversary-edition/
@@ -106,7 +106,7 @@ BEGIN:VEVENT
 SUMMARY:[E] Hatch Day
 DTSTART:20260808T110000
 DTEND:20260808T170000
-DTSTAMP:20260715T024902Z
+DTSTAMP:20260716T025536Z
 UID:hatch-day-august-2026
 DESCRIPTION:Starts at 11:00\, ends at 17:00.\n\nhttps://leekduck.com/event
  s/hatch-day-august-2026/
@@ -120,10 +120,27 @@ TRIGGER:-P1D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:[E] Summer Marathon: Arctic Embers
+DTSTART;VALUE=DATE:20260804
+DTEND;VALUE=DATE:20260810
+DTSTAMP:20260716T025536Z
+UID:summer-marathon-2026
+DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/event
+ s/summer-marathon-2026/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/article-images/
+ 2026/2026-08-04-summer-marathon-2026/summer-marathon-2026.jpg
+URL:https://leekduck.com/events/summer-marathon-2026/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel Pokémon GO
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:[E] Ultra Unlock: Water Festival
 DTSTART;VALUE=DATE:20260818
 DTEND;VALUE=DATE:20260824
-DTSTAMP:20260715T024902Z
+DTSTAMP:20260716T025536Z
 UID:water-festival-2026
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/event
  s/water-festival-2026/
@@ -140,7 +157,7 @@ BEGIN:VEVENT
 SUMMARY:[RD] Raichu Super Mega Raid Day
 DTSTART:20260718T140000
 DTEND:20260718T170000
-DTSTAMP:20260715T024902Z
+DTSTAMP:20260716T025536Z
 UID:raichu-super-mega-raid-day-2026
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/event
  s/raichu-super-mega-raid-day-2026/
@@ -158,7 +175,7 @@ BEGIN:VEVENT
 SUMMARY:[RD] Starmie Super Mega Raid Day
 DTSTART:20260822T110000
 DTEND:20260822T170000
-DTSTAMP:20260715T024902Z
+DTSTAMP:20260716T025536Z
 UID:starmie-super-mega-raid-day-2026
 DESCRIPTION:Starts at 11:00\, ends at 17:00.\n\nhttps://leekduck.com/event
  s/starmie-super-mega-raid-day-2026/
@@ -173,17 +190,18 @@ TRIGGER:-P1D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[PGF] Pokémon GO Fest 2026: Global
-DTSTART;VALUE=DATE:20260711
-DTEND;VALUE=DATE:20260712
-DTSTAMP:20260713T032804Z
-UID:pokemon-go-fest-2026-global
+SUMMARY:[PGF] GO Fest 2026 Sunday Raid Makeup
+DTSTART:20260726T100000
+DTEND:20260726T190000
+DTSTAMP:20260716T025536Z
+UID:pokemon-go-fest-2026-global-sunday-raid-makeup
 DESCRIPTION:Starts at 10:00\, ends at 19:00.\n\nhttps://leekduck.com/event
- s/pokemon-go-fest-2026-global/
+ s/pokemon-go-fest-2026-global-sunday-raid-makeup/
 IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/article-images/
- 2026/2026-07-11-pokemon-go-fest-2026-global/pokemon-go-fest-2026-global.jp
- g?v2
-URL:https://leekduck.com/events/pokemon-go-fest-2026-global/
+ 2026/2026-07-26-pokemon-go-fest-2026-global-sunday-raid-makeup/pokemon-go-
+ fest-2026-global-sunday-raid-makeup.jpg
+URL:https://leekduck.com/events/pokemon-go-fest-2026-global-sunday-raid-ma
+ keup/
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Rappel Pokémon GO
