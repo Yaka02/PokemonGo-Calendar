@@ -4,14 +4,15 @@ PRODID:-//Personal Pokemon GO Calendar//FR
 X-WR-CALNAME:Pokémon GO - Favoris
 X-WR-TIMEZONE:Europe/Paris
 BEGIN:VEVENT
-SUMMARY:[CD] October Community Day
+SUMMARY:[CD] Zorua Community Day
 DTSTART:20261010T140000
 DTEND:20261010T170000
-DTSTAMP:20260915T041526Z
+DTSTAMP:20260916T041132Z
 UID:october-communityday2026
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/event
  s/october-communityday2026/
-IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/cd-default.jpg
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/article-images/
+ 2026/2026-10-10-october-communityday2026/zorua-october-cd-2026.png
 URL:https://leekduck.com/events/october-communityday2026/
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -33,7 +34,7 @@ BEGIN:VEVENT
 SUMMARY:[CD] November Community Day
 DTSTART:20261121T140000
 DTEND:20261121T170000
-DTSTAMP:20260915T041526Z
+DTSTAMP:20260916T041132Z
 UID:november-communityday2026
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/event
  s/november-communityday2026/
@@ -56,27 +57,10 @@ TRIGGER:-PT1H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[E] Mega Squads
-DTSTART;VALUE=DATE:20260908
-DTEND;VALUE=DATE:20260915
-DTSTAMP:20260915T041526Z
-UID:mega-squads
-DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/event
- s/mega-squads/
-IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/article-images/
- 2026/2026-09-08-mega-squads/mega-squads.jpg
-URL:https://leekduck.com/events/mega-squads/
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Rappel Pokémon GO
-TRIGGER:-P1D
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[E] Pokémon Horizons: The Series Celebration Event
+SUMMARY:[E] Pokémon Horizons: The Series Celebration Event 2026
 DTSTART;VALUE=DATE:20260916
 DTEND;VALUE=DATE:20260923
-DTSTAMP:20260915T041526Z
+DTSTAMP:20260916T041132Z
 UID:pokemon-horizons-the-series-celebration-event-2026
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/event
  s/pokemon-horizons-the-series-celebration-event-2026/
@@ -95,7 +79,7 @@ BEGIN:VEVENT
 SUMMARY:[E] Phantump Catch Mastery
 DTSTART:20260926T100000
 DTEND:20260926T200000
-DTSTAMP:20260915T041526Z
+DTSTAMP:20260916T041132Z
 UID:catch-mastery-phantump-2026
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/event
  s/catch-mastery-phantump-2026/
@@ -112,7 +96,7 @@ BEGIN:VEVENT
 SUMMARY:[E] LEGO Stores and Pokémon GO
 DTSTART;VALUE=DATE:20260803
 DTEND;VALUE=DATE:20261001
-DTSTAMP:20260915T041526Z
+DTSTAMP:20260916T041132Z
 UID:lego-pokemon-go-2026
 DESCRIPTION:Starts at 10:00\, ends at 23:59.\n\nhttps://leekduck.com/event
  s/lego-pokemon-go-2026/
@@ -129,7 +113,7 @@ BEGIN:VEVENT
 SUMMARY:[E] Patterns of the Wild
 DTSTART:20261002T100000
 DTEND:20261002T200000
-DTSTAMP:20260915T041526Z
+DTSTAMP:20260916T041132Z
 UID:patterns-of-the-wild-2026
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/event
  s/patterns-of-the-wild-2026/
@@ -146,7 +130,7 @@ BEGIN:VEVENT
 SUMMARY:[E] Harvest Festival 2026: Applin Picking
 DTSTART;VALUE=DATE:20260929
 DTEND;VALUE=DATE:20261006
-DTSTAMP:20260915T041526Z
+DTSTAMP:20260916T041132Z
 UID:harvest-festival-2026
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/event
  s/harvest-festival-2026/
@@ -163,7 +147,7 @@ BEGIN:VEVENT
 SUMMARY:[E] Harvest Festival: Taken Over
 DTSTART;VALUE=DATE:20261002
 DTEND;VALUE=DATE:20261006
-DTSTAMP:20260915T041526Z
+DTSTAMP:20260916T041132Z
 UID:harvest-festival-taken-over-2026
 DESCRIPTION:Starts at 00:00\, ends at 20:00.\n\nhttps://leekduck.com/event
  s/harvest-festival-taken-over-2026/
@@ -181,7 +165,7 @@ BEGIN:VEVENT
 SUMMARY:[E] Hatch Day
 DTSTART:20261017T110000
 DTEND:20261017T170000
-DTSTAMP:20260915T041526Z
+DTSTAMP:20260916T041132Z
 UID:hatch-day-october-2026
 DESCRIPTION:Starts at 11:00\, ends at 17:00.\n\nhttps://leekduck.com/event
  s/hatch-day-october-2026/
@@ -198,7 +182,7 @@ BEGIN:VEVENT
 SUMMARY:[RD] Staraptor Super Mega Raid Day
 DTSTART:20260919T140000
 DTEND:20260919T170000
-DTSTAMP:20260915T041526Z
+DTSTAMP:20260916T041132Z
 UID:staraptor-super-mega-raid-day-2026
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/event
  s/staraptor-super-mega-raid-day-2026/
@@ -216,7 +200,7 @@ BEGIN:VEVENT
 SUMMARY:[RD] Super Mega Raid Day
 DTSTART:20261031T140000
 DTEND:20261031T170000
-DTSTAMP:20260915T041526Z
+DTSTAMP:20260916T041132Z
 UID:super-mega-raid-day-october-2026
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/event
  s/super-mega-raid-day-october-2026/
@@ -233,7 +217,7 @@ BEGIN:VEVENT
 SUMMARY:[RD] Super Mega Raid Day
 DTSTART:20261128T140000
 DTEND:20261128T170000
-DTSTAMP:20260915T041526Z
+DTSTAMP:20260916T041132Z
 UID:super-mega-raid-day-november-2026
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/event
  s/super-mega-raid-day-november-2026/
